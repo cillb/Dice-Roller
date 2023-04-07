@@ -2,6 +2,7 @@
 This python code creates an app used to make dice rolls. The GUI is made with tkinter,
 and has two fields for entry; The size of die being rolled, and the number being rolled.
 The individual rolls are displayed along with the total number rolled.
+The accompanying Dice_Roll module is imported, and carries out the actual dice roll function.
 """
 from tkinter import *
 from tkinter import font
